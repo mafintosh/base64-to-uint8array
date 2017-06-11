@@ -1,0 +1,18 @@
+{
+  "name": "base64-to-uint8array",
+  "version": "0.0.0",
+  "description": "Convert a base64 string to a Uint8Array in Node and the browser",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/base64-to-uint8array.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/base64-to-uint8array/issues"
+  },
+  "homepage": "https://github.com/mafintosh/base64-to-uint8array"
+}
