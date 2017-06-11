@@ -1,6 +1,6 @@
 {
   "name": "base64-to-uint8array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a base64 string to a Uint8Array in Node and the browser",
   "main": "index.js",
   "dependencies": {},
